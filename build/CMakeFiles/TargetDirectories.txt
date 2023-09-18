@@ -1,0 +1,5 @@
+/root/project/ffmpeg/build/CMakeFiles/rebuild_cache.dir
+/root/project/ffmpeg/build/CMakeFiles/videoCodec.dir
+/root/project/ffmpeg/build/CMakeFiles/edit_cache.dir
+/root/project/ffmpeg/build/lib/FFmpeg/CMakeFiles/rebuild_cache.dir
+/root/project/ffmpeg/build/lib/FFmpeg/CMakeFiles/edit_cache.dir

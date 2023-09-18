@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic -lavcodec -lavformat -lavfilter -lavdevice -lavutil -lswresample -lswscale CMakeFiles/videoCodec.dir/main.cc.o CMakeFiles/videoCodec.dir/src/videoCodec.cc.o -o videoCodec 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/video-app.dir/main.cc.o CMakeFiles/video-app.dir/src/videoCodec.cc.o -o video-app 

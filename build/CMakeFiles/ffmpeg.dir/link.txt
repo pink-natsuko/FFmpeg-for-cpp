@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/ffmpeg.dir/main.cc.o CMakeFiles/ffmpeg.dir/src/videoCodec.cc.o -o ffmpeg 
